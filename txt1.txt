@@ -1,6 +1,3 @@
 from main
 
-from new 1100!!
-
-txt from new-2200
 
